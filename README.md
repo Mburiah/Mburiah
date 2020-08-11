@@ -11,5 +11,5 @@
 
 <img src="art/linkedin.svg" height="50" width="70" href="https://www.linkedin.com/in/mburia-betty-408153186" alt="LinkedIn">
 <img src="art/twitter.svg" height="50" width="70" href="https://twitter.com/Mburia2" alt="Twitter">
-<img src="art/codewars.svg" height="50" width="70" href="https://www.codewars.com/users/Mburiah" alt="Codewars>
+<img src="art/codewars.svg" height="50" width="70" href="https://www.codewars.com/users/Mburiah" alt="Codewars">
 
