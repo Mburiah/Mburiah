@@ -9,7 +9,7 @@
   
 ### Connect with me 
 
-<img src="art/linkedin.svg" height="50" width="70" href="https://www.linkedin.com/in/mburia-betty-408153186" alt="LinkedIn">
-<img src="art/twitter.svg" height="50" width="70" href="https://twitter.com/Mburia2" alt="Twitter">
-<img src="art/codewars.svg" height="50" width="70" href="https://www.codewars.com/users/Mburiah" alt="Codewars">
+<img src="https://github.com/Mburiah/Mburiah/blob/master/art/linkedin.svg" height="50" width="70" href="https://www.linkedin.com/in/mburia-betty-408153186" alt="LinkedIn">
+<img src="https://github.com/Mburiah/Mburiah/blob/master/art/twitter.svg" height="50" width="70" href="https://twitter.com/Mburia2" alt="Twitter">
+<img src="https://github.com/Mburiah/Mburiah/blob/master/art/codewars.svg" height="50" width="70" href="https://www.codewars.com/users/Mburiah" alt="Codewars">
 
