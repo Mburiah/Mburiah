@@ -7,9 +7,9 @@
 - 🥅 2020 Goals: To contribute more to open source projects.
 - 🍬 Fun fact: I love anime, color black, I'm still waiting for Guardians of the Galaxy Vol 3😄
   
-### Connect with me 
+<!-- ### Connect with me 
 
 <img src="https://github.com/Mburiah/Mburiah/blob/master/art/linkedin.svg" height="50" width="70" href="https://www.linkedin.com/in/mburia-betty-408153186" alt="LinkedIn">
 <img src="https://github.com/Mburiah/Mburiah/blob/master/art/twitter.svg" height="50" width="70" href="https://twitter.com/Mburia2" alt="Twitter">
-<img src="https://github.com/Mburiah/Mburiah/blob/master/art/codewars.svg" height="50" width="70" href="https://www.codewars.com/users/Mburiah" alt="Codewars">
+<img src="https://github.com/Mburiah/Mburiah/blob/master/art/codewars.svg" height="50" width="70" href="https://www.codewars.com/users/Mburiah" alt="Codewars"> -->
 
