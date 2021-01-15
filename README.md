@@ -1,11 +1,10 @@
 ### Hi there, I'm Mburiah 👋
 
 ### A sister, daughter, mentor, developer and student!
-- 🌱 I am currently working on GADS 2020 with Andela Learning Community, Google and Pluralsight. 
-- 🌱 Android track GADS 2020. 
-- 🚀 Working on a bomb portfolio website with GSAP
-- 🥅 2020 Goals: To contribute more to open source projects.
-- 🍬 Fun fact: I love anime, black color, and I am still waiting for Guardians of the Galaxy Vol 3😄
+- 🌱GADS 2020 with Andela Learning Community, Google and Pluralsight. Android track. 
+- 🌱Learning KOTLIN
+- 🥅Goals: To contribute more to open source projects.
+- 🍬 Fun fact: I love anime, black color😄
   
 <!-- ### Connect with me 
 
